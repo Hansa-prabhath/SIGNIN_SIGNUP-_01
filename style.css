@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "OlderScript";
+    src: url(font/OleoScript-Bold.ttf);
+}
+.font_01{
+    font-family: "OlderScript";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;  
+}
+@font-face {
+    font-family: "ArbrillFatface";
+    src: url("font/AbrilFatface-Regular.ttf");
+}
+.font_02{
+    font-family: "ArbrillFatface";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: gray;
+}
+.bg_colour{
+    background: #ff99cc;
+    height: 700px;
+    border-radius: 50% 20% / 10% 40%;
+}
